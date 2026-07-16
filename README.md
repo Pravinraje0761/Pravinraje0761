@@ -1,5 +1,35 @@
 # 💫 About Me:
-👋 Hey! I'm Pravin Raj<br><br>🚀 AI & Computer Vision Enthusiast<br>🎓 B.Tech in Data Science & Artificial Intelligence<br>💻 Full-Stack Developer<br>🔬 Medical AI Researcher<br><br>Currently building AI systems for medical image analysis with a focus on colorectal polyp detection using Deep Learning and Vision Transformers.<br><br>### Tech<br>Python • PyTorch • TensorFlow • OpenCV • React • Node.js • Docker • Git • PostgreSQL<br><br>### Interested In<br>🧠 Machine Learning<br>👁️ Computer Vision<br>🏥 Medical AI<br>⚙️ Backend Development<br>☁️ Cloud & DevOps<br><br>Always learning. Always building.
+👋 Hey! I'm Pravin Raj<br><br>
+
+🚀 AI Engineer & Computer Vision Enthusiast<br>
+🎓 B.Tech in Data Science & Artificial Intelligence<br>
+🔬 Medical AI Researcher<br>
+💻 Full-Stack Developer<br>
+🌱 Passionate about building AI that creates real-world impact<br><br>
+
+Currently developing intelligent healthcare solutions using Deep Learning, Vision Transformers, and Medical Image Processing. My work focuses on colorectal polyp detection, medical image segmentation, and explainable AI to build reliable and trustworthy diagnostic systems.<br><br>
+
+### 🚀 Tech Stack<br>
+🐍 Python • PyTorch • TensorFlow • OpenCV • NumPy • Scikit-learn<br>
+⚛️ React • Next.js • Node.js • Express.js<br>
+🐳 Docker • Git • GitHub • Linux • PostgreSQL • MongoDB<br><br>
+
+### 🔥 Currently Exploring<br>
+🧠 Large Language Models (LLMs)<br>
+👁️ Advanced Computer Vision<br>
+🏥 Medical AI & Explainable AI (XAI)<br>
+⚙️ System Design & MLOps<br>
+☁️ Cloud Computing & DevOps<br><br>
+
+### 💡 Interested In<br>
+🤖 Artificial Intelligence & Machine Learning<br>
+👁️ Computer Vision<br>
+🩺 Healthcare AI & Medical Imaging<br>
+🌐 Full-Stack Development<br>
+🚀 Open Source & Research Collaboration<br><br>
+
+⭐ Turning ideas into intelligent solutions.<br>
+📚 Always learning. ⚡ Always building. 🚀
 
 
 ## 🌐 Socials:
